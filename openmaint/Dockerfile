@@ -8,7 +8,7 @@ ENV OPENMAINT_URL https://sourceforge.net/projects/cmdbuild/files/3.1.1/cmdbuild
 ENV POSTGRES_USER postgres
 ENV POSTGRES_PASS postgres
 ENV POSTGRES_PORT 5432
-ENV POSTGRES_HOST openmaint_db
+ENV POSTGRES_HOST openmaintdb
 ENV POSTGRES_DB openmaint_db3
 ENV OPENMAINT_DUMP openmaint_empty
 
